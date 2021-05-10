@@ -1,0 +1,4 @@
+[submodule "sites/vvasuki.github.io"]
+	path = sites/vvasuki.github.io
+	url = https://github.com/vvasuki/kannaDa.git
+	branch = content
